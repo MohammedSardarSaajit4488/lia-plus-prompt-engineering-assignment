@@ -1,7 +1,5 @@
 # Prompt Engineering Assignment – LiaPlus AI
 
-![Header](https://via.placeholder.com/1200x200.png?text=Prompt+Engineering+Assignment) <!-- Replace with your own header banner if desired -->
-
 ## ✨ Objective
 
 Design a structured, intelligent conversational flow for LiaPlus AI’s Nursing College admissions assistant to handle user queries professionally and naturally.
