@@ -1,4 +1,4 @@
-# Prompt Engineering Assignment – LiaPlus AI
+# Prompt Engineering Assignment 
 
 ## ✨ Objective
 
